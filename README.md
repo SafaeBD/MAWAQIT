@@ -8,9 +8,9 @@ Cette inexactitude est corrigée par MAWAQIT, un panneau de contrôle de prière
 
 Le défi d'assurer la performance, la fiabilité et la stabilité du système repose sur la sélection primordiale des composants matériels. Pour garantir la réception d'informations précises et , nous devons  :
 
--**-Choisir des composants adaptés pour assurer la précision de l'affichage et la fiabilité de la communication.**
--**-Collecter et filtrer les données avec rigueur afin d'éviter les erreurs d'affichage.**
--**-Configurer précisément les chiffres sur les écrans LED pour garantir des informations exactes.** 
+- **-Choisir des composants adaptés pour assurer la précision de l'affichage et la fiabilité de la communication.**
+- **-Collecter et filtrer les données avec rigueur afin d'éviter les erreurs d'affichage.**
+- **-Configurer précisément les chiffres sur les écrans LED pour garantir des informations exactes.**
 
 ## Aperçu de l'ESP32
 
