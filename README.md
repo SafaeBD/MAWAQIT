@@ -8,9 +8,9 @@ Cette inexactitude est corrigée par MAWAQIT, un panneau de contrôle de prière
 
 Le défi d'assurer la performance, la fiabilité et la stabilité du système repose sur la sélection primordiale des composants matériels. Pour garantir la réception d'informations précises et , nous devons  :
 
-- **-Choisir des composants adaptés pour assurer la précision de l'affichage et la fiabilité de la communication.**
-- **-Collecter et filtrer les données avec rigueur afin d'éviter les erreurs d'affichage.**
-- **-Configurer précisément les chiffres sur les écrans LED pour garantir des informations exactes.**
+- **Choisir des composants adaptés pour assurer la précision de l'affichage et la fiabilité de la communication.**
+- **Collecter et filtrer les données avec rigueur afin d'éviter les erreurs d'affichage.**
+- **Configurer précisément les chiffres sur les écrans LED pour garantir des informations exactes.**
 
 ## Aperçu de l'ESP32
 
@@ -54,5 +54,12 @@ Les horaires de prière sont affichés de manière séquentielle, en commençant
 ## Protocole Utilisé
 
 Le SPI (Serial Peripheral Interface) est un protocole de communication de données utilisé pour connecter des dispositifs externes à un microcontrôleur. Nous l'avons utilisé entre le microcontrôleur et le MAX7219 pour contrôler efficacement les affichages LED.
+
+## Contribution
+
+Les contributions à MAWAQIT sont les bienvenues ! N'hésitez pas à forker le dépôt et à soumettre une pull request pour tout bug corrigé ou ajout de fonctionnalité.
+
+## Licence
+Ce projet est sous licence MIT – voir le fichier LICENSE pour plus de détails.
 
 
