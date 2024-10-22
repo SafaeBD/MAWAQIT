@@ -1,6 +1,6 @@
 # **MAWAQIT**
 
-## C'est quoi MAWAQIT ?
+## Tout d'abord : 
 
 Le panneau de contrôle de prière dans les mosquées est essentiel pour informer les fidèles des horaires de prière. 
 Cependant, l'affichage de l'heure peut parfois être imprécis, avec des écarts de 2 à 3 minutes par rapport à l'heure réelle. 
